@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" shape-rendering="crispEdges">
+  <!-- Background -->
+  <rect width="512" height="512" rx="112" fill="#080B0F"/>
+
+  <!-- Dumbbell: left plate stack -->
+  <rect x="72" y="212" width="28" height="88" rx="8" fill="#E8FF47"/>
+  <rect x="52" y="228" width="24" height="56" rx="6" fill="#E8FF47"/>
+
+  <!-- Dumbbell: bar -->
+  <rect x="100" y="244" width="312" height="24" rx="12" fill="#E8FF47"/>
+
+  <!-- Dumbbell: right plate stack -->
+  <rect x="412" y="212" width="28" height="88" rx="8" fill="#E8FF47"/>
+  <rect x="436" y="228" width="24" height="56" rx="6" fill="#E8FF47"/>
+
+  <!-- Minimal "IM" text hint — thin accent line under bar -->
+  <rect x="180" y="296" width="152" height="3" rx="2" fill="#E8FF47" opacity="0.35"/>
+</svg>
